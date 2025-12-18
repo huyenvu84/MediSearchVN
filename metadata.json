@@ -1,0 +1,5 @@
+{
+  "name": "MediSearchVN App",
+  "description": "Ứng dụng tra cứu phác đồ điều trị y khoa chuẩn xác, cập nhật liên tục từ các nguồn y văn uy tín thông qua Google Search Grounding. Được phát triển bởi BS Huyền Vũ",
+  "requestFramePermissions": []
+}
